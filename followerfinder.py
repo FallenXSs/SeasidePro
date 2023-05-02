@@ -9,10 +9,10 @@ def get_time():
 
 def main():
     logo = f"""
-    {Style.BRIGHT + Fore.RED}  ▄▄ ▄███▄{Style.RESET_ALL}
-    {Style.BRIGHT + Fore.RED}▄▀▀▀▀ ▄▄▄ ▀▀▀▀▄   {Style.BRIGHT + Fore.MAGENTA}Instagram Kitleye Göre Takipçi Bulucu{Style.RESET_ALL}
-    {Style.BRIGHT + Fore.RED}█    █   █    █   {Style.BRIGHT + Fore.RED}+-----------------------------------+{Style.RESET_ALL}
-    {Style.BRIGHT + Fore.RED}█    ▀▄▄▄▀    █             {Style.BRIGHT + Fore.YELLOW}Coded by R35{Style.RESET_ALL}
+    {Style.BRIGHT + Fore.BLUE}  ▄▄ ▄███▄{Style.RESET_ALL}
+    {Style.BRIGHT + Fore.RED}▄▀▀▀▀ ▄▄▄ ▀▀▀▀▄   {Style.BRIGHT + Fore.MAGENTA}SeasideFollow V1{Style.RESET_ALL}
+  {Style.BRIGHT + Fore.GREEN}█    █   █    █   {Style.BRIGHT + Fore.BLUE}+-----------------------------------+{Style.RESET_ALL}
+    {Style.BRIGHT + Fore.RED}█    ▀▄▄▄▀    █             {Style.BRIGHT + Fore.GREEN}Coded by FallenXSs{Style.RESET_ALL}
     {Style.BRIGHT + Fore.RED}▀▄▄▄▄▄▄▄▄▄▄▄▄▄▀{Style.RESET_ALL}
 
     """
