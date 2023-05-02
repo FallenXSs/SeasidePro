@@ -24,4 +24,4 @@ pip install -r requirements.txt
     ```
 python followerfinder.py
 
-![Uploading wp2959911.jpg…]()
+
