@@ -15,7 +15,7 @@ pkg install openssl
 pkg install python
    
 
-git clone https://github.com/FallenXSs/followerfinder
+git clone https://github.com/FallenXSs/seasidefollow
    
   
   cd followerfinder
