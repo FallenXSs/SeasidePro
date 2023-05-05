@@ -15,7 +15,7 @@ pkg install openssl
 pkg install python
    
 
-git clone https://github.com/FallenXSs/seasidefollow
+git clone https://github.com/FallenXSs/SeasidePro
    
   
   cd seasidepro
