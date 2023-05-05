@@ -18,7 +18,7 @@ pkg install python
 git clone https://github.com/FallenXSs/seasidefollow
    
   
-  cd followerfinder
+  cd seasidepro
    
   ls
    
