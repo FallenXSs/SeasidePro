@@ -1,4 +1,4 @@
-# followerfinder
+# Seaside Follow
 
 # KURULUM 
   
